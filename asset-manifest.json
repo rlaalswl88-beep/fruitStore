@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-data/fruitStore/static/css/main.07dfd090.css",
+    "main.js": "/react-data/fruitStore/static/js/main.bcac3f0b.js",
+    "static/js/453.cba865e1.chunk.js": "/react-data/fruitStore/static/js/453.cba865e1.chunk.js",
+    "static/media/slider.jpg": "/react-data/fruitStore/static/media/slider.54cc2d2774b480638c2b.jpg",
+    "index.html": "/react-data/fruitStore/index.html",
+    "main.07dfd090.css.map": "/react-data/fruitStore/static/css/main.07dfd090.css.map",
+    "main.bcac3f0b.js.map": "/react-data/fruitStore/static/js/main.bcac3f0b.js.map",
+    "453.cba865e1.chunk.js.map": "/react-data/fruitStore/static/js/453.cba865e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07dfd090.css",
+    "static/js/main.bcac3f0b.js"
+  ]
+}
